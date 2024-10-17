@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um programa simples em Java para gerenciamento de notas de uma turma com 10 alunos e 3 disciplinas. Ele permite que o usuário insira as notas, calcule médias, ordene as notas, busque por uma nota específica e exiba estatísticas gerais da turma.
+Esse projeto é um programa simples em Java para gerenciamento de notas de uma turma com 10 alunos e 3 disciplinas. Ele permite que o usuário insira as notas, calcule médias, ordene as notas, busque por uma nota específica e exiba estatísticas gerais da turma.
 
 ## Funcionalidades
 
