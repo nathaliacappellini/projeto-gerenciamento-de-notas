@@ -6,23 +6,23 @@ Esse projeto é um programa simples em Java para gerenciamento de notas de uma t
 
 ## Funcionalidades
 
-1 - **Inserir Notas:** Insere as notas dos alunos nas três disciplinas. 
-2 - **Calcular Média do Aluno:** Calcula e exibe a média de cada aluno. 
-3 - **Calcular Média da Turma:** Calcula e exibe a média geral da turma. 
-4 - **Ordenar Notas:** Ordena as notas dos alunos usando o algoritmo Selection Sort. 
-5 - **Buscar Nota:** Permite buscar uma nota específica usando o algoritmo de busca binária. 
-5 - **Exibir Estatísticas:** Exibe estatísticas gerais, incluindo a média de cada aluno, a média da turma, além da maior e menor nota de cada disciplina. 
+- **Inserir Notas:** Insere as notas dos alunos nas três disciplinas. 
+- **Calcular Média do Aluno:** Calcula e exibe a média de cada aluno. 
+- **Calcular Média da Turma:** Calcula e exibe a média geral da turma. 
+- **Ordenar Notas:** Ordena as notas dos alunos usando o algoritmo Selection Sort. 
+- **Buscar Nota:** Permite buscar uma nota específica usando o algoritmo de busca binária. 
+- **Exibir Estatísticas:** Exibe estatísticas gerais, incluindo a média de cada aluno, a média da turma, além da maior e menor nota de cada disciplina. 
 
 ## Como Executar
 
-1 - Faça o download ou clone este repositório.
-2 - Compile o arquivo `ProgramaGerenciamentoNotas.java` em seu ambiente Java:
+1. Faça o download ou clone este repositório.
+2. Compile o arquivo `ProgramaGerenciamentoNotas.java` em seu ambiente Java:
 
 ```bash
 javac ProgramaGerenciamentoNotas.java
 ```
 
-3 - Execute o programa:
+3. Execute o programa:
 
 ```bash
 java ProgramaGerenciamentoNotas
