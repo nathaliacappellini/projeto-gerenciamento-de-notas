@@ -6,12 +6,12 @@ Esse projeto é um programa simples em Java para gerenciamento de notas de uma t
 
 ## Funcionalidades
 
-1 - **Inserir Notas:** Insere as notas dos alunos nas três disciplinas.
-2 - **Calcular Média do Aluno:** Calcula e exibe a média de cada aluno.
-3 - **Calcular Média da Turma:** Calcula e exibe a média geral da turma.
-4 - **Ordenar Notas:** Ordena as notas dos alunos usando o algoritmo Selection Sort.
-5 - **Buscar Nota:** Permite buscar uma nota específica usando o algoritmo de busca binária.
-5 - **Exibir Estatísticas:** Exibe estatísticas gerais, incluindo a média de cada aluno, a média da turma, além da maior e menor nota de cada disciplina.
+1 - **Inserir Notas:** Insere as notas dos alunos nas três disciplinas. 
+2 - **Calcular Média do Aluno:** Calcula e exibe a média de cada aluno. 
+3 - **Calcular Média da Turma:** Calcula e exibe a média geral da turma. 
+4 - **Ordenar Notas:** Ordena as notas dos alunos usando o algoritmo Selection Sort. 
+5 - **Buscar Nota:** Permite buscar uma nota específica usando o algoritmo de busca binária. 
+5 - **Exibir Estatísticas:** Exibe estatísticas gerais, incluindo a média de cada aluno, a média da turma, além da maior e menor nota de cada disciplina. 
 
 ## Como Executar
 
@@ -39,5 +39,3 @@ Após iniciar o programa, um menu será exibido com as seguintes opções:
 - 5 - **Buscar Nota:** Permite buscar uma nota específica no sistema.
 - 6 - **Estatísticas:** Exibe estatísticas, como maior e menor nota por disciplina e as médias calculadas.
 - 7 - **Sair:** Encerra o programa.
-
----
