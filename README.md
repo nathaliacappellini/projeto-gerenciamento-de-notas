@@ -1,4 +1,4 @@
-# projeto-gerenciamento-de-notas
+# 📑 projeto-gerenciamento-de-notas
 
 ## Descrição
 
@@ -39,3 +39,6 @@ Após iniciar o programa, um menu será exibido com as seguintes opções:
 - 5 - **Buscar Nota:** Permite buscar uma nota específica no sistema.
 - 6 - **Estatísticas:** Exibe estatísticas, como maior e menor nota por disciplina e as médias calculadas.
 - 7 - **Sair:** Encerra o programa.
+
+---
+<div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>
