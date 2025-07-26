@@ -41,4 +41,8 @@ Após iniciar o programa, um menu será exibido com as seguintes opções:
 - 7 - **Sair:** Encerra o programa.
 
 ---
-<div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>
+
+<div align="center">
+  <sub>Feito com 🩷 por</sub><br>
+  <strong><a href="https://github.com/nathaliacappellini" target="_blank">Nathalia Cappellini</a></strong><br>
+</div>
